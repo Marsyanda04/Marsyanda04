@@ -12,3 +12,9 @@ Saat ini saya sedang menjalani Studi Independen di Bangkit Academy 2023.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/marsyandasalsanabila/)ku ya.
 
+<p align="left">
+<a href="https://github.com/Marsyanda04">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marsyanda04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marsyanda04&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
