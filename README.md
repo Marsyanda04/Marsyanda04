@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Marsyanda Salsa Nabila**.
 
-Saya seorang **Mahasiswa** di Universitas Bhayangkara Jakarta Raya.
+Saya lulusan S1 Ilmu Komputer di Universitas Bhayangkara Jakarta Raya.
 
 Saya memiliki minat di bidang data terutama data science, machine learning, dan artificial intelligence.
 
